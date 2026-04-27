@@ -55,7 +55,7 @@ github-user-activity/
 ### Clone the Repository
 
 ```bash
-git clone https://rohitdalui48/github-user-activity
+git clone https://rohitdalui48/github-user-activity.git
 cd github-user-activity
 ```
 
